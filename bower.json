@@ -1,0 +1,9 @@
+{
+  "name": "create-project-on-bootstrap-4",
+  "description": "create-project",
+  "author": "Meylis Day",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}

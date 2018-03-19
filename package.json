@@ -1,0 +1,40 @@
+{
+  "name": "first-project-on-bootstrap-4",
+  "version": "1.0.0",
+  "description": "",
+  "author": "project-on-bootstrap-4",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-cached": "^1.1.1",
+    "gulp-cssbeautify": "^0.1.3",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-debug": "^3.2.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.3.2",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "file:node_modules\\gulp-util",
+    "gulp-watch": "^4.3.11",
+    "ngrok": "^2.2.25",
+    "rimraf": "^2.5.4",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp"
+  },
+  "engines": {
+    "node": "4.6.2"
+  },
+  "dependencies": {
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^5.0.1"
+  }
+}
